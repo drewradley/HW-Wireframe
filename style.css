@@ -83,6 +83,7 @@
     font-size: large;
     /* height: 50px; */
     padding: 25px;
+    overflow: hidden;
   
   }
   #division2 {
@@ -91,6 +92,7 @@
     background: #EBEBEB;
     /* height: 50px; */
     padding: 25px;
+    /* overflow: scroll; */
   
   }
   aside {
