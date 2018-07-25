@@ -7,16 +7,16 @@
   }
   
   body {
-      background-color: #777777;
+    background-color: #777777;
     margin: 0;
   }
   
   header {
-      height: 100px;
-      width: 60%;
+    height: 100px;
+    width: 60%;
     padding: 20px;
     margin-left:20%;
-   margin-top: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
     color: #777777;
     background: #EBEBEB;
@@ -94,7 +94,7 @@
     margin-top: 20px;
     background: #777777;
     color: white;
-    /* padding: 80px; */
+    padding: 5px;
     float: left;
     width: 99%;
     height: 200px;
